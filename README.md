@@ -2,7 +2,7 @@ Pandas Data Manipulation
 Welcome to the Pandas Data Manipulation repository! This repository serves as a comprehensive resource for learning and mastering data manipulation techniques using the Pandas library in Python.
 
 Overview
-Pandas is a powerful library for data manipulation and analysis in Python. It provides easy-to-use data structures and functions for working with structured data. Whether you're new to Pandas or looking to enhance your skills, you'll find everything you need to manipulate and analyze data efficiently here.
+Pandas is a powerful library for data manipulation and analysis in Python. It provides easy-to-use data structures and functions for working with structured data. Whether you're new to Pandas or looking to enhance skills, find everything you need to manipulate and analyze data efficiently here.
 
 Contents
 1. Introduction to Pandas
